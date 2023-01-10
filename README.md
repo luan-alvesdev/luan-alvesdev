@@ -10,4 +10,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luan-alvesdev&bg_color=0d1117&color=8b949e&line=3fb950&point=8676fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
