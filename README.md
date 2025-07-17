@@ -6,10 +6,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-alvesdev&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117&hide=HTML" />
 </div>
 
-<div align="center">
+<!--<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luan-alvesdev}/count.svg" /></p> 
 <br>
-</div>
+</div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>-->
