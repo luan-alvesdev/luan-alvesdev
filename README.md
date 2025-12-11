@@ -23,6 +23,6 @@ Tecnologias que uso:
 
 ## 📫 Como me encontrar  
 Sinta-se à vontade para me contatar, colaborar ou mandar ideias!  
-[LinkedIn](https://www.linkedin.com/in/luanalvesdev) · [Linktree](https://linktr.ee/luanalvesdev)  
+[LinkedIn](https://www.linkedin.com/in/luanalvesdev) · [Linktree](https://linktr.ee/luanalvesdev) · [Portfólio](https://luancode.online/)
 
 </div>
