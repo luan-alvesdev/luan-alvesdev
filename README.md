@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-<div align="center">  
-🔗 <a href="https://linktr.ee/luanalvesdev">Meu Linktree</a> · 
-<a href="https://www.linkedin.com/in/luanalvesdev">LinkedIn</a> · 
-<a href="https://luancode.online/">Portfólio</a>
+<div align="center">   
+🔗 <a href="https://www.linkedin.com/in/luanalvesdev">LinkedIn</a> · 
+🔗 <a href="https://luancode.online/">Portfólio</a> . 
+🔗 <a href="https://linktr.ee/luanalvesdev">Meu Linktree</a>
 
 
 Tecnologias que uso: 
