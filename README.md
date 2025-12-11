@@ -6,6 +6,12 @@
 🖥️ Software Developer · Rio de Janeiro, Brasil  
 🔗 [Meu Linktree](https://linktr.ee/luanalvesdev) · [LinkedIn](https://www.linkedin.com/in/luanalvesdev)  
 
+teste
+
+### 🚀 Tecnologias que uso
+![React](https://img.shields.io/badge/React-%230088cc.svg?logo=react&logoColor=white&style=for-the-badge)
+
+
 ---
 
 ## 🚀 Sobre mim  
