@@ -8,9 +8,7 @@
 
 teste
 
-### 🚀 Tecnologias que uso
-![React](https://img.shields.io/badge/React-%230088cc.svg?logo=react&logoColor=white&style=for-the-badge)
-
+![Frameworks](https://github-stats-transparent.vercel.app/api/frameworks?username=luan-alvesdev&theme=dark)
 
 ---
 
