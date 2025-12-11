@@ -15,11 +15,11 @@ Desenvolvedor focado em front-end e fullstack — apaixonado por construir inter
 
 ## 📊 Minhas stats & linguagens  
 
-<!-- Stats Gerais -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-alvesdev&show_icons=true&theme=dark)](https://github.com/luan-alvesdev)  
+<!-- Stats (alternativa) -->
+![GitHub stats](https://readme-stats-fast.vercel.app/api?username=luan-alvesdev&show_icons=true&theme=dark)
 
-<!-- Linguagens mais usadas -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-alvesdev&layout=donut&theme=dark)](https://github.com/luan-alvesdev)  
+<!-- Top langs (alternativa) -->
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=luan-alvesdev&layout=donut&theme=dark)
 
 ---
 
