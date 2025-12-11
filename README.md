@@ -6,8 +6,9 @@
 🖥️ Software Developer · Rio de Janeiro, Brasil  
 🔗 [Meu Linktree](https://linktr.ee/luanalvesdev) · [LinkedIn](https://www.linkedin.com/in/luanalvesdev)  
 
-teste
-![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?username=luan-alvesdev&theme=dark)
+Tecnologias que uso: 
+![Frameworks](https://github-stats-transparent.vercel.app/api/frameworks?username=luan-alvesdev&theme=dark)
+
 
 ---
 
