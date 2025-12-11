@@ -1,9 +1,65 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luan-alvesdev&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Luan Alves github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luan-alvesdev&layout=compact&hide_border=true&title_color=00BFFF&text_color=00BFFF&bg_color=0d1117&hide=HTML" />
+# 👋 Olá, eu sou Luan Alves  
+
+🖥️ Software Developer · Rio de Janeiro, Brasil  
+🔗 [Meu Linktree](https://linktr.ee/luanalvesdev) · [LinkedIn](https://www.linkedin.com/in/luanalvesdev)  
+
+---
+
+## 🚀 Sobre mim  
+Desenvolvedor focado em front-end e fullstack — apaixonado por construir interfaces e resolver problemas com código limpo e bem organizado. Sempre em busca de aprender novas tecnologias e entregar valor real.  
+
+---
+
+## 📊 Minhas stats & linguagens  
+
+<!-- Stats Gerais -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=luan-alvesdev&show_icons=true&theme=dark)](https://github.com/luan-alvesdev)  
+
+<!-- Linguagens mais usadas -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luan-alvesdev&layout=donut&theme=dark)](https://github.com/luan-alvesdev)  
+
+---
+
+## 🧰 Tecnologias & Ferramentas  
+Aqui vão algumas das minhas principais stacks / ferramentas de desenvolvimento:
+
+- JavaScript / TypeScript  
+- HTML & CSS / SCSS  
+- Vue.js / React  
+- Node.js / Express  
+- Versionamento com Git / GitHub  
+- Controle de estado & componentes (context/hooks ou Vuex/Pinia)  
+- APIs REST / JSON  
+- Ferramentas de build: Webpack / Vite  
+
+*E sempre aberto a aprender novas tecnologias conforme o projeto :)  
+
+---
+
+## ✅ Destaques & Repositórios Pinned  
+
+<!-- Exemplos — personalize com os seus projetos favoritos -->
+- **cardsage** — 🔖 Um repositório com ...  
+- **virtual-aquarium** — 🐠 Projeto front-end criado em Vue.js, onde ...  
+- **projeto-todo** — ✅ Aplicação de lista de tarefas em JS/CSS/HTML  
+
+---
+
+## 📫 Como me encontrar  
+Sinta-se à vontade para me contatar, colaborar ou mandar ideias!  
+[LinkedIn](https://www.linkedin.com/in/luanalvesdev) · [Linktree](https://linktr.ee/luanalvesdev)  
+
+---
+
+## ⚠️ Observações  
+
+- Os gráficos de “Top Langs” mostram **as linguagens com mais código no GitHub**, não necessariamente as que eu uso com mais frequência no dia a dia. :contentReference[oaicite:2]{index=2}  
+- O cartão de stats mostra dados públicos dos seus repositórios — commits, repositórios, etc. :contentReference[oaicite:3]{index=3}  
+
+
 </div>
 
 
