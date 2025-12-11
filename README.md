@@ -1,17 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 <div align="center">  
-# 👋 Olá, eu sou Luan Alves  
-
-🖥️ Software Developer · Rio de Janeiro, Brasil  
 🔗 [Meu Linktree](https://linktr.ee/luanalvesdev) · [LinkedIn](https://www.linkedin.com/in/luanalvesdev) · [Portfólio](https://luancode.online/)
 
 Tecnologias que uso: 
 ![Frameworks](https://github-stats-transparent.vercel.app/api/frameworks?username=luan-alvesdev&theme=dark)
 
 ---
-
-## 📊 Minhas stats & linguagens  
 
 <!-- Stats (alternativa) -->
 ![GitHub stats](https://readme-stats-fast.vercel.app/api?username=luan-alvesdev&show_icons=true&theme=dark)
