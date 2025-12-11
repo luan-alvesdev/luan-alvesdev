@@ -12,7 +12,7 @@ Tecnologias que uso:
 ---
 
 <div align="center">
-  <img src="https://readme-stats-fast.vercel.app/api?username=luan-alvesdev&show_icons=true&theme=dark" height="180" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=luan-alvesdev&show_icons=true&theme=dark" height="180" style="margin-right: 20px;" />
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=luan-alvesdev&layout=donut&theme=dark" height="180" />
 </div>
 
