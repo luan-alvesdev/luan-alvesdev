@@ -4,16 +4,10 @@
 # 👋 Olá, eu sou Luan Alves  
 
 🖥️ Software Developer · Rio de Janeiro, Brasil  
-🔗 [Meu Linktree](https://linktr.ee/luanalvesdev) · [LinkedIn](https://www.linkedin.com/in/luanalvesdev)  
+🔗 [Meu Linktree](https://linktr.ee/luanalvesdev) · [LinkedIn](https://www.linkedin.com/in/luanalvesdev) · [Portfólio](https://luancode.online/)
 
 Tecnologias que uso: 
 ![Frameworks](https://github-stats-transparent.vercel.app/api/frameworks?username=luan-alvesdev&theme=dark)
-
-
----
-
-## 🚀 Sobre mim  
-Desenvolvedor focado em front-end e fullstack — apaixonado por construir interfaces e resolver problemas com código limpo e bem organizado. Sempre em busca de aprender novas tecnologias e entregar valor real.  
 
 ---
 
